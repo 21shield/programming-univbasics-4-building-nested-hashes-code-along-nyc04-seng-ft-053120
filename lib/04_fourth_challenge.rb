@@ -8,7 +8,7 @@ def fourth_challenge
         #your hashes here!
         :Benvolio => {:name => "", :age => "", :attitude => ""}, :Mercutio => {:name => "", :age => "", :attitude => ""}
       ]
-   }, 
+   },
    :capulet => {
       :patriarch => {name: "Lord Capulet", age: "50"},
       :matriarch => {name: "Lady Capulet", age: "51"},
@@ -19,6 +19,6 @@ def fourth_challenge
    }
 }
 
-  
+
 
 end
